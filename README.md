@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/binars-software-house/binars-software-house">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20Binars%20Software%20house; talk to us for any software needs you have&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to%20Binars%20Software%20house; talk%20to%20us%20for%20any%20software%20needs%20you%20have&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!--
