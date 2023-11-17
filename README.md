@@ -12,6 +12,14 @@
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+<p align="center"> 
+ 🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
+  <img src="https://profile-counter.glitch.me/binars-software-house/count.svg"/>
+  </p>
+  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binars-software-house&theme=gotham&layout=compact"width="47%"/> 
+</p>
 
 #### 🅦🅔🅑 🅗🅞🅢🅣🅘🅝🅖
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
