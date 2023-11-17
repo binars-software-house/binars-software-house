@@ -26,7 +26,7 @@
 <a href="https://github.com/binars-software-house?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=binars-software-house&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@binars-software-house's github-readme-streak-stats"/></a>
 </p>
 
-div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
